@@ -1,2 +1,3 @@
-# Actualizaciones
-Mantenimientos
+# Utilidades
+
+Carpeta para scripts y funciones de uso general.
